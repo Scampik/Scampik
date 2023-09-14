@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend-Developer <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlyMTBlNTVybWMzdWZ5a3Q0YWc4NmdkbXQzb3NydWlyNGF1YXlmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Girl in a jacket" style="width:300px;height:300px;">
 ------------------
 
-I've been learning 1 year on Hexlet
+I studied for 1 year on Hexlet (frontend developer)
 
 * 🌍  I'm based in Ufa Russia
 * ✉️  You can contact me at [scams@mail.ru](mailto:scams@mail.ru)
-* 🧠  I'm learning react
+* 🧠  I'm learning Typescript
 
 ### Skills
 
