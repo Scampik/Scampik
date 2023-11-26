@@ -33,3 +33,13 @@ I studied for 1 year on Hexlet
 ### Badges
 
 <a href="https://github.com/geophyzik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geophyzik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Pet-projects
+
+- [online-chat](https://github.com/geophyzik/frontend-project-12) (React/Redux, AJAX, REST, websockets...) [deploy link](https://frontend-project-12-production-48af.up.railway.app/login)
+- [shop with free games](https://github.com/geophyzik/game-shop)  (React/Redux, AJAX, REST...) [deploy link](https://game-shop-avito-2023.vercel.app/)
+- [pizza store](https://github.com/geophyzik/pizza-store)  (React/Redux, TS, AJAX, mock REST API...) [deploy link](https://pizza-store-lovat.vercel.app/)
+- [RSS news](https://github.com/geophyzik/frontend-project-11)  (JavaScript, NodeJS, NPM, yup, axios...) [deploy link](https://frontend-project-11-iota.vercel.app/)
+- [Find Differences](https://github.com/geophyzik/frontend-project-46)  (JavaScript, NodeJS, NPM, Jest, Commander.js...)
+- [Brain Games console game](https://github.com/geophyzik/frontend-project-44)  (JavaScript, NodeJS, NPM, readlineSync...)
+- [Popover toolkit](https://github.com/geophyzik/sunrise)  on process
