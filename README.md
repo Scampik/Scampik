@@ -8,7 +8,6 @@ I studied for 1 year on Hexlet
 
 * 🌍  I'm based in Ufa Russia
 * ✉️  You can contact me at [scams@mail.ru](mailto:scams@mail.ru)
-* 🧠  I'm learning Typescript
 
 ### Skills
 
@@ -36,10 +35,12 @@ I studied for 1 year on Hexlet
 
 ### Pet-projects
 
-- [online-chat](https://github.com/geophyzik/frontend-project-12) (React/Redux, AJAX, REST, websockets...) [deploy link](https://frontend-project-12-production-48af.up.railway.app/login)
-- [shop with free games](https://github.com/geophyzik/game-shop)  (React/Redux, AJAX, REST...) [deploy link](https://game-shop-avito-2023.vercel.app/)
-- [pizza store](https://github.com/geophyzik/pizza-store)  (React/Redux, TS, AJAX, mock REST API...) [deploy link](https://pizza-store-lovat.vercel.app/)
-- [RSS news](https://github.com/geophyzik/frontend-project-11)  (JavaScript, NodeJS, NPM, yup, axios...) [deploy link](https://frontend-project-11-iota.vercel.app/)
-- [Find Differences](https://github.com/geophyzik/frontend-project-46)  (JavaScript, NodeJS, NPM, Jest, Commander.js...)
-- [Brain Games console game](https://github.com/geophyzik/frontend-project-44)  (JavaScript, NodeJS, NPM, readlineSync...)
-- [Popover toolkit](https://github.com/geophyzik/sunrise)  on process
+| Repository |  Description |  Stack | Deploy link |
+| -- | -- | -- | -- |
+| [online-chat](https://github.com/geophyzik/frontend-project-12) | chat |(React/Redux, AJAX, REST, websockets...) |[deploy link](https://frontend-project-12-production-48af.up.railway.app/login)|
+| [shop with free games](https://github.com/geophyzik/game-shop) | shop | (React/Redux, AJAX, REST...) | [deploy link](https://game-shop-avito-2023.vercel.app/)|
+| [pizza store](https://github.com/geophyzik/pizza-store) | pizza store | (React/Redux, TS, AJAX, mock REST API...) | [deploy link](https://pizza-store-lovat.vercel.app/)|
+| [RSS news](https://github.com/geophyzik/frontend-project-11) | rss aggregator | (JavaScript, NodeJS, NPM, yup, axios...) | [deploy link](https://frontend-project-11-iota.vercel.app/)|
+| [Find Differences](https://github.com/geophyzik/frontend-project-46) | find difference beetwen 2 files | (JavaScript, NodeJS, NPM, Jest, Commander.js...)|
+| [Brain Games console game](https://github.com/geophyzik/frontend-project-44) | console games | (JavaScript, NodeJS, NPM, readlineSync...)|
+| [Sunrise](https://github.com/geophyzik/sunrise)| popover ui toolkit | (JavaScript) |  on process|
