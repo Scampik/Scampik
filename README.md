@@ -43,4 +43,4 @@ I studied for 1 year on Hexlet
 | [RSS news](https://github.com/geophyzik/frontend-project-11) | rss aggregator | (JavaScript, NodeJS, NPM, yup, axios...) | [deploy link](https://frontend-project-11-iota.vercel.app/)|
 | [Find Differences](https://github.com/geophyzik/frontend-project-46) | find difference beetwen 2 files | (JavaScript, NodeJS, NPM, Jest, Commander.js...)|
 | [Brain Games console game](https://github.com/geophyzik/frontend-project-44) | console games | (JavaScript, NodeJS, NPM, readlineSync...)|
-| [Sunrise](https://github.com/geophyzik/sunrise)| popover ui toolkit | (JavaScript) |  on process|
+| [Fluffio](https://github.com/geophyzik/fluffio)| popover ui toolkit | (JavaScript, popover API) |  [package](https://www.npmjs.com/package/@fluffio/core)|
