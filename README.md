@@ -42,5 +42,5 @@ Frontend-Developer <img align="right" src="https://media0.giphy.com/media/v1.Y2l
 | [RSS news](https://github.com/geophyzik/frontend-project-11) | rss aggregator | (JavaScript, NodeJS, NPM, yup, axios...) | [deploy link](https://frontend-project-11-iota.vercel.app/)|
 | [Find Differences](https://github.com/geophyzik/frontend-project-46) | find difference beetwen 2 files | (JavaScript, NodeJS, NPM, Jest, Commander.js...)|
 | [Brain Games console game](https://github.com/geophyzik/frontend-project-44) | console games | (JavaScript, NodeJS, NPM, readlineSync...)|
-| [Fluffio](https://github.com/geophyzik/fluffio)| popover ui toolkit | (JavaScript, popover API) |  [package](https://www.npmjs.com/package/@fluffio/core)|
-| [File manager](https://github.com/geophyzik/file-store)| file manager | (JavaScript, popover API, yup, monaco editor) |  [deploy link](https://file-store-xi.vercel.app/)|
+| [Fluffio](https://github.com/geophyzik/fluffio)| popover ui toolkit | (TS, popover API) |  [package](https://www.npmjs.com/package/@fluffio/core)|
+| [File manager](https://github.com/geophyzik/file-store)| file manager | (TS, popover API, yup, monaco editor) |  [deploy link](https://file-store-xi.vercel.app/)|
